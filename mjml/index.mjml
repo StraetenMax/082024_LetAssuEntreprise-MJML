@@ -79,10 +79,10 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
       <mj-column width="30%" padding="8px">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/PZRQQsp/news-E3-072024.jpg" href="https://ecosup-assurance.fr/cv-book/" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/SmTfMy7/news-AE04-082024.jpg" href="https://ecosup-assurance.fr/cv-book/" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
       </mj-column>
       <mj-column width="70%" padding="8px">
-        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Actualités Ecosup</mj-text>
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Apprentissage</mj-text>
         <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Entreprises partenaires nous avons besoin de vous ! </mj-text>
         <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400">Certains de nos étudiants(es) cherchent encore un contrat d'apprentissage. </mj-text>
         <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400">Découvrez leur profil, téléchargez et consultez notre CV Book.</mj-text>
@@ -91,7 +91,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
       <mj-column width="30%" padding="8px">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/PZRQQsp/news-E3-072024.jpg" href="https://ecosup-assurance.fr/cv-book/" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" src="https://i.ibb.co/brxf1tM/news-AE01-082024.jpg" alt="Étudiante en formation chez un courtier d'assurance"/>
       </mj-column>
       <mj-column width="70%" padding="8px">
         <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formation en Apprentissage</mj-text>
@@ -107,7 +107,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
       <mj-column width="30%" padding="8px">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/PZRQQsp/news-E3-072024.jpg" href="https://ecosup-assurance.fr/cv-book/" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" src="https://i.ibb.co/LZs4m7L/news-AE02-082024.jpg" alt="étudiant motivé entrain de travailler en groupe"/>
       </mj-column>
       <mj-column width="70%" padding="8px">
         <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formation en Apprentissage</mj-text>
@@ -117,7 +117,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
       <mj-column width="30%" padding="8px">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/PZRQQsp/news-E3-072024.jpg" href="https://ecosup-assurance.fr/cv-book/" alt="Couverture du nouveau CV Book avec de nouveaux étudiants"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" src="https://i.ibb.co/mq3dGfn/news-AE03-082024.jpg" alt="Logo de la certification Qualiopi"/>
       </mj-column>
       <mj-column width="70%" padding="8px">
         <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formation en Apprentissage</mj-text>
